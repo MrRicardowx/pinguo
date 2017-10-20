@@ -1,0 +1,28 @@
+html,body,ul,li,ol,dl,dt,dd,input,h1,h2,h3,h4,h5,h6,img,p,a{
+  margin:0;
+  padding:0;
+}
+a{
+  text-decoration:none;
+}
+li{
+	list-style: none;
+}
+@font-face {
+  font-family: 'iconfont';
+  src: url('../icon-foot/iconfont.eot');
+  src: url('../icon-foot/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('../icon-foot/iconfont.woff') format('woff'),
+  url('../icon-foot/iconfont.ttf') format('truetype'),
+  url('../icon-foot/iconfont.svg#iconfont') format('svg');
+}
+.iconfont{
+  font-family:"iconfont" !important;
+  font-size:16px;font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+*{
+	box-sizing: border-box;
+}

@@ -1,0 +1,957 @@
+@media only screen and (min-width:1024px ) {
+  main{
+		width: 976px;
+	}
+
+	.wtf2{
+		display: none;
+	}
+.last-box1{
+	display: none;
+}
+	.i8{
+	width: 100%;
+	height: 580px;
+	background:#F9F0EB;
+	/*overflow: hidden;*/
+}
+/*i8 start*/
+.i8 div{
+	margin:0 auto;
+	margin-top:29px;
+	width:561px;
+	height: 395px;
+	background: url(../img/iphone_8_large.jpg) no-repeat center center;
+}
+.i8 div{
+	background-size: 561px 395px;
+}
+.i8 a p:first-child{
+	margin-top:65px;
+	height: 60px;
+	width:100%;
+	text-align: center;
+	line-height: 60px;
+	font-size: 56px;
+	color:#000000;	
+}
+.i8 a p:nth-child(2){
+	height:31px;
+	width: 100%;
+	font-size: 27px;
+	text-align: center;
+	line-height: 31px;
+	color:#000000;
+}
+
+.i8 a{
+	height:580px;
+	overflow: hidden;
+	display: block;
+}
+/*X START*/
+.x a{
+	display: block;
+	width: 100%;
+	height:580px;
+	overflow: hidden;
+}
+.x div{
+	margin:130px auto;
+	width:909px;
+	height: 194px;
+	background: url(../img/iphone_x_large.jpg) no-repeat center center;
+}
+.x div{
+	background-size: 909px 194px;
+}
+.x a p:first-child{
+	margin-top:65px;
+	height: 60px;
+	width:100%;
+	text-align: center;
+	line-height: 60px;
+	font-size: 56px;
+	color:#000000;	
+}	
+.x a p:nth-child(2){
+	height:31px;
+	width: 100%;
+	font-size: 27px;
+	text-align: center;
+	line-height: 31px;
+	color:#000000;
+}
+
+/*WATCH START*/
+.w a{
+	display: block;
+	width: 100%;
+	height:580px;
+	overflow: hidden;
+}
+.w div{
+	margin-top:20px;
+	margin:0 auto;
+	width:767px;
+	height: 341px;
+	background-size: 767px 341px;
+	background: url('../img/qsl.jpg') no-repeat center center;
+}
+
+.w a p:first-child{
+	margin:45px auto;
+	background-size:182px 72px ;
+	height: 72px;
+	width:182px;
+	background: url(../img/watch_series_3_large.png) no-repeat center center;
+}
+.w a p:nth-child(2){
+	height:31px;
+	width: 100%;
+	font-size: 27px;
+	text-align: center;
+	line-height: 31px;
+	color:#000000;
+}
+
+
+
+.b ul li{
+	float:left;
+	border-right:12px solid #FFFFFF;
+	border-bottom: 12px solid #FFFFFF;
+	background:#FAFAFA;
+	width:50%;
+	height:580px;
+}
+.b ul li:nth-child(2n+1){
+	border-left:9px solid #FFFFFF;
+}
+
+.b ul li:first-child p:first-child{
+	margin-top:60px;
+	font-size:48px;
+	text-align: center;
+	color:#000000;
+}
+.b ul li:first-child p:nth-child(2){
+	font-size: 24px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:first-child p:nth-child(3){
+	/*background:red;*/
+
+	width:516px;
+	height:369px;
+	margin:30px auto;
+	background:url(../img/ios_large.jpg) no-repeat center center;
+	background-size: 516px 369px;
+}
+
+
+.b ul li:nth-child(2) p:first-child{
+	margin-top:60px;
+	font-size:48px;
+	text-align: center;
+	color:#000000;
+}
+.b ul li:nth-child(2) p:nth-child(2){
+	font-size: 24px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:nth-child(2) p:nth-child(3){
+	width:553px;
+	height:392px;
+	margin:30px auto;
+	background: url('../img/biao (2).jpg') no-repeat center center;
+	background-size: 516px 369px;
+}
+
+.b ul li:nth-child(3) p:first-child{
+	margin-top:60px;
+	font-size:48px;
+	text-align: center;
+	color:#000000;
+}
+.b ul li:nth-child(3) p:nth-child(2){
+	display: none;
+}
+.b ul li:nth-child(3) p:nth-child(4),.b ul li:nth-child(3) p:nth-child(5){
+	font-size: 24px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:nth-child(3) p:nth-child(2),.b ul li:nth-child(3) p:nth-child(3){
+	display: none;
+}
+/*.b ul li:nth-child(3) p:last-child{
+	padding-top:20px;
+	width:527px;
+	height:307px;
+	margin:0 auto;
+	background:url(../img/shoujida.png) no-repeat center center;
+	background-size: 527px 307px;
+}*/
+.b ul li:nth-child(3) {
+	height:580px;
+	background: url('../img/shoujihe (2).jpg') no-repeat center center;
+	background-size:cover;
+}
+.b ul li:nth-child(4) p:first-child{
+	margin-top:60px;
+	font-size:48px;
+	text-align: center;
+	color:#000000;
+}
+.b ul li:nth-child(4) p:nth-child(2){
+	font-size: 24px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:nth-child(4) p:nth-child(3){
+	/*background:red;*/
+	width:499px;
+	height:292px;
+	margin:30px auto;
+	background:url(../img/macos_high_sierra_large.jpg) no-repeat center center;
+	background-size: 499px 292px;
+}
+
+.foot-box{
+	width:100%;
+	height: auto;
+	margin:0 auto;
+	background:#F2F2F2;
+	overflow:hidden;
+}
+
+.bottom-box{
+	max-width: 980px;
+	height:245px;
+	margin:0 auto;
+}
+.bottom-box h4{
+	font-size:11px;
+	color: inherit;
+	font-weight:400;
+	color: #666666;;
+}
+.bottom-box-4 h4:last-of-type{
+	margin-top:10px;
+}
+
+.bottom-box a{
+	font-size:8px;
+	color:#999999;
+}
+.bottom-box>div{
+	width:20%;
+	height:245px;
+	float:left;
+	margin-top:10px;
+}
+/*last start*/
+.lastbox li:last-child{
+	margin-top:10px;
+}
+.lastbox li{
+	width:100%;
+	font-size:5px;
+}
+.lastbox li a{
+color:#888888;
+}
+.lastbox>ul>li:nth-child(1)>a{
+	color:#0070C9;
+}
+.lastbox>ul>li:nth-child(2)>a{
+	padding-left: 2px;
+}
+.lastbox{
+	max-width:970px;
+	margin:0 auto;
+	color: #888;;
+}
+.last-box{
+	width:100%;
+	background-color:#f2f2f2;
+}
+.last-box ul{
+	padding-top:50px;
+	background: #f2f2f2;
+}
+.lastbox ul li:first-child{
+	border-bottom: 1px solid #d6d6d6;
+	height:24px;
+
+}
+.lastbox ul li{
+	color:#555555;
+}
+.lastbox ul li:nth-child(2) a{
+	color:#333333;
+}
+.lastbox ul li:nth-child(3){
+	margin-top:7px;
+	
+}
+.last-box ul{
+	position: relative;
+}
+.lastbox li:nth-child(2){
+	width:44px;
+	color:red;
+	font-size:5px;
+	position: absolute;
+	right:0px;
+	top:76px;
+}
+h4>img{
+	display: none;
+}
+}
+
+
+
+@media only screen and (min-width: 736px) and (max-width: 1024px) {
+	.last-box1{
+	display: none;
+}
+	main a {
+		padding-right:22px;
+		}
+	.wtf{
+		width:100%;
+	}
+	.wtf2{
+		display: none;
+	}
+.i8{
+	width: 100%;;
+	height:569px;
+}
+.i8 div{
+	margin:0 auto;
+	margin-top:29px;
+	width:549px;
+	height: 388px;
+	background: url('../img/iphone8 midd.jpg') no-repeat center center;
+}
+.i8 div{
+	background-size:549px 388px;
+
+}
+ .i8 a{
+	overflow: hidden;
+	display: block;
+	height:569px;
+}
+.i8 a p:first-child{
+	margin-top: 75px;
+	height:48px;
+	width:100%;
+	text-align: center;
+	line-height: 48px;
+	font-size: 44px;
+	color:#000000;	
+}
+.i8 a p:nth-child(2){
+	height:26px;
+	width: 100%;
+	font-size: 22px;
+	text-align: center;
+	line-height: 26px;
+	color:#000000;
+	margin-top:3px ;
+}
+section{
+	padding-top:70px;
+}
+/*X START*/
+.x{
+	width: 100%;;
+	height:569px;
+}
+.x div{
+	margin:203px auto;
+	width:704px;
+	height: 148px;
+	background: url(../img/iphone_x_medium.jpg) no-repeat center center;
+}
+.x div{
+	background-size:704px 148px;
+
+}
+.x a{
+	height:569px;
+	overflow: hidden;
+	display: block;
+}
+.x a p:first-child{
+	margin-top:75px;
+	height:48px;
+	width:100%;
+	text-align: center;
+	line-height: 48px;
+	font-size: 44px;
+	color:#000000;	
+}
+.x a p:nth-child(2){
+	height:26px;
+	width: 100%;
+	font-size: 22px;
+	text-align: center;
+	line-height: 26px;
+	color:#000000;
+	margin-top:3px ;
+}
+section{
+	padding-top:70px;
+}
+
+/*WATCH START*/
+.w{
+	width: 100%;;
+	height:569px;
+}
+.w div{
+	margin:20px auto;
+	width:762px;
+	height: 339px;
+	background: url(../img/qslz.jpg) no-repeat center center;
+	background-size:762px 339px;
+
+}
+.w a{
+	display:block;
+	overflow: hidden;
+	height:569px;
+}
+.w a p:first-child{
+	
+	height:56px;
+	width:144px;
+	margin: 26px auto;
+	background: url(../img/watch_series_3_medium.png) no-repeat center center;
+	background-size: 144px 56px;
+}
+.w a p:nth-child(2){
+	height:26px;
+	width: 100%;
+	font-size: 22px;
+	text-align: center;
+	line-height: 26px;
+	color:#000000;
+	margin-top:3px ;
+}
+section{
+	padding-top:70px;
+}
+
+.b ul li{
+	float:left;
+	border-right:12px solid #FFFFFF;
+	border-bottom: 12px solid #FFFFFF;
+	background:#FAFAFA;
+}
+.b ul li:nth-child(2n+1){
+	border-left:9px solid #FFFFFF;
+}
+.b li{
+	width:50%;
+	height:508px;
+}
+.b ul li:first-child p:first-child{
+	margin-top:40px;
+	font-size:40px;
+	text-align: center;
+	color:#000000;
+}
+.b ul li:first-child p:nth-child(2){
+	font-size: 21px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:first-child p:nth-child(3){
+	width:362px;
+	height:261px;
+	margin:45px auto;
+	background:url(../img/ios_medium.jpg) no-repeat center center;
+	background-size: 362px 261px;
+}
+
+.b div{
+	height:800px;
+}
+.b ul li:nth-child(2) p:first-child{
+	margin-top:40px;
+	font-size:40px;
+	text-align: center;
+	color:#000000;
+}
+.b ul li:nth-child(2) p:nth-child(2){
+	font-size: 21px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:nth-child(2) p:nth-child(3){
+
+	width:381px;
+	height:270px;
+	margin:42px auto;
+	background: url('../img/biao (3).jpg') no-repeat center center;
+	background-size: 381px 270px;
+}
+
+.b ul li:nth-child(3) p:first-child{
+	/*margin-top:20px;
+	font-size:40px;
+	text-align: center;
+	color:#000000;*/
+	display: none;
+}
+.b ul li:nth-child(3) p:nth-child(2),.b ul li:nth-child(3) p:nth-child(3){
+	/*font-size: 21px;
+	text-align: center;
+	color: #000000;*/
+	margin-top:40px;
+	font-size:40px;
+	text-align: center;
+	color:#000000;
+}
+.b ul li:nth-child(3) p:nth-child(4),.b ul li:nth-child(3) p:nth-child(5){
+	font-size: 21px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:nth-child(3){
+	background: url('../img/shoujihe1.jpg') no-repeat center center;
+	background-size: cover;
+	width:50%;
+	height:508px;
+}
+/*.b ul li:nth-child(3) p:last-child{
+
+	width:362px;
+	height:261px;
+	margin:0 auto;
+	background:url('../img/shoujihe (3).jpg') no-repeat center center;
+	background-size: 516px 369px;
+}*/
+
+
+.b ul li:nth-child(4) p:first-child{
+	margin-top:40px;
+	font-size:40px;
+	text-align: center;
+	color:#000000;
+}
+.b ul li:nth-child(4) p:nth-child(2){
+	font-size: 21px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:nth-child(4) p:nth-child(3){
+	width:332px;
+	height:194px;
+	margin:42px auto;
+	background:url(../img/macos_high_sierra_small.jpg) no-repeat center center;
+	background-size: 332px 194px;
+}
+.foot-box{
+	width:100%;
+	height: auto;
+	margin:0 auto;
+	background:#F2F2F2;
+	overflow:hidden;
+}
+
+.bottom-box{
+	width:100%;
+	height:auto;
+	overflow: hidden;
+	margin:0 auto;	
+}
+.bottom-box-1{
+	padding-left:18px;
+}
+.bottom-box h4{
+	font-size:11px;
+	color: inherit;
+	font-weight:400;
+	color: #666666;;
+}
+.bottom-box-4 h4:last-of-type{
+	margin-top:10px;
+}
+
+.bottom-box a{
+	font-size:8px;
+	color:#999999;
+}
+.bottom-box>div{
+	width:20%;
+	height:245px;
+	float:left;
+	margin-top:10px;
+}
+/*last start*/
+.lastbox li:last-child{
+	margin-top:10px;
+}
+.lastbox li{
+	width:100%;
+	font-size:5px;
+}
+.lastbox li a{
+color:#888888;
+}
+.lastbox>ul>li:nth-child(1)>a{
+	color:#0070C9;
+}
+.lastbox>ul>li:nth-child(2)>a{
+	padding-left: 2px;
+}
+.lastbox{
+	width:100%;
+	margin:0 auto;
+	color: #888;
+}
+.last-box{
+	width:100%;
+	background-color:#f2f2f2;
+}
+.lastbox ul li:first-child{
+	padding-top:5px;
+	height:24px;
+
+}
+.lastbox ul li:nth-child(2) a{
+	color:#333333;
+}
+.lastbox ul li:nth-child(3){
+	margin-top:7px;
+	
+}
+.last-box ul{
+	position: relative;
+	padding-left:18px;
+	padding-top: 50px;
+	background:#F2F2F2;
+}
+.lastbox li:nth-child(2){
+	width:44px;
+	color:red;
+	font-size:5px;
+	position: absolute;
+	right:0px;
+	top:77px;
+}
+h4>img{
+	display: none;
+}
+}
+
+/*..................................*/
+
+
+@media only screen and (max-width:736px ) {
+	main a {
+		padding-right:22px;
+		}
+		.wtf2{
+			padding:0 20px;
+		}
+		nav .wtf{
+		display: none;
+	}
+.i8{
+	width: 100%;;
+	height:500px;
+}
+.i8 div{
+	margin:39px auto;
+	width:267px;
+	height: 357px;
+	background: url(../img/i8s.jpg) no-repeat center center;
+}
+.i8 div{
+	background-size:267px 357px;
+}
+.i8 a p:first-child{
+	height:36px;
+	width:100%;
+	text-align: center;
+	line-height: 36px;
+	font-size: 32px;
+	color:#000000;	
+}
+.i8 a p:nth-child(2){
+	height:27px;
+	width: 100%;
+	font-size: 19px;
+	text-align: center;
+	line-height: 27px;
+	color:#000000;
+	margin-top:2px ;
+}
+section{
+	padding-top:39px;
+}
+/*X START*/
+.x{
+	width: 100%;;
+	height:500px;
+}
+.x div{
+	margin:30px auto;
+	width:167px;
+	height: 333px;
+	background: url(../img/iphone_x_small.jpg) no-repeat center center;
+}
+.x div{
+	background-size:167px 333px;
+}
+.x a p:first-child{
+	height:36px;
+	width:100%;
+	text-align: center;
+	line-height: 36px;
+	font-size: 32px;
+	color:#000000;	
+}
+.x a p:nth-child(2){
+	height:27px;
+	width: 100%;
+	font-size: 19px;
+	text-align: center;
+	line-height: 27px;
+	color:#000000;
+	margin-top:2px ;
+}
+section{
+	padding-top:39px;
+}
+
+
+/*WATCH START*/
+.w{
+	width: 100%;;
+	height:500px;
+}
+.w div{
+	margin:30px auto;
+	width:302px;
+	height: 338px;
+	background: url(../img/qsls.jpg) no-repeat center center;
+	background-size:302px 338px;
+}
+
+.w a p:first-child{
+	height:46px;
+	width:108px;
+	margin: 0 auto;
+	background-size: 108px 46px;
+	background: url(../img/watch_series_3_small.png) no-repeat center;
+}
+
+
+.w a p:nth-child(2){
+	height:27px;
+	width: 100%;
+	font-size: 19px;
+	text-align: center;
+	line-height: 27px;
+	color:#000000;
+	margin-top:2px ;
+}
+section{
+	padding-top:39px;
+}
+
+
+.b li{
+	width:100%;
+	height:auto;
+	background:#FAFAFA;
+	/*padding:0 40px;*/
+}
+.b ul li:first-child p:first-child{
+	font-size:32px;
+	text-align: center;
+	color:#000000;
+	padding-top:40px;
+}
+.b ul li:first-child p:nth-child(2){
+	font-size: 19px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:first-child p:nth-child(3){
+	width:420px;
+	height:301px;
+	margin:0 auto;
+	margin-top:60px;
+	background:url(../img/ios_alt_small.jpg) no-repeat center center;
+	background-size: 420px 301px;
+}
+
+
+.b ul li:nth-child(2) p:first-child{
+	font-size:32px;
+	text-align: center;
+	color:#000000;
+		padding-top:40px;
+}
+.b ul li:nth-child(2) p:nth-child(2){
+	font-size: 19px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:nth-child(2) p:nth-child(3){
+	width:339px;
+	height:240px;
+	margin:0 auto;
+	margin-top:60px;
+	background: url('../img/biao (1).jpg') no-repeat center center;
+	background-size: 339px 240px;
+}
+
+.b ul li:nth-child(3) p:first-child{
+	font-size:32px;
+	text-align: center;
+	color:#000000;
+		padding-top:40px;
+}
+.b ul li:nth-child(3) p:nth-child(4),.b ul li:nth-child(3) p:nth-child(5){
+	font-size: 19px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:nth-child(3) p:nth-child(2),.b ul li:nth-child(3) p:nth-child(3){
+	display: none;
+}
+/*.b ul li:nth-child(3) p:last-child{
+	width:372px;
+	height:221px;
+	margin:0 auto;
+	margin-top:60px;
+	background:url(../img/shoujihe1.jpg) no-repeat center center;
+	background-size: 372px 221px;
+}*/
+.b ul li:nth-child(3){
+	background: url('../img/shoujihe 33.jpg') no-repeat center center;
+	background-size: cover;
+}
+.b ul li:nth-child(4) p:first-child{
+	font-size:32px;
+	text-align: center;
+	color:#000000;
+		padding-top:40px;
+}
+.b ul li:nth-child(4) p:nth-child(2){
+	font-size: 19px;
+	text-align: center;
+	color: #000000;
+}
+.b ul li:nth-child(4) p:nth-child(3){
+
+	width:348px;
+	height:203px;
+	margin:0 auto;
+	margin-top:60px;
+	background:url(../img/macos_high_sierra_small.jpg) no-repeat center center;
+	background-size: 348px 203px;
+}
+.b li{
+	border-top: 12px solid #FFFFFF;
+	background:#FAFAFA;
+	height:402px;
+}
+.b {
+	margin-top:0px;
+}
+.foot-box li{
+	display:none;
+}
+.foot-box>div:nth-child(1){
+	background-color:#f2f2f2;
+	margin-top:12px;
+}
+.foot-box h4{
+	width:95%;
+	height:38px;
+	border-bottom:1px solid  #D6D6D6;
+	line-height:38px;
+	background-color:#F2F2F2;
+	font-size:10px;
+	margin:0 auto;
+	color: #333;	;
+	font-weight: 100;
+}
+.foot-box-top{
+	border-bottom:1px solid #d6d6d6;
+	width:95%;
+	height:50px;
+	/*line-height:80px;*/
+	background-color:#F2F2F2;
+	font-size:10px;
+	margin:0 auto;
+}
+.lastbox1 li{
+	margin:0 auto;
+	width:95%;
+	background-color:#f2f2f2;
+	font-size:8px;
+	color: #555555;
+}
+.lastbox1>ul>li:nth-child(1)>a{
+	color:#0070C9;
+}
+.lastbox1{
+	width:100%;
+	height:100px;
+	background-color:#F2F2F2;
+}
+.last-box1 ul{
+	background: #F2F2F2;
+}
+.lastbox1 ul li{
+	padding-right:15px;
+}
+.last-box1{
+	background: #f2f2f2;
+	padding-top:20px;
+}
+.lastbox1 li:nth-child(2){
+	padding-top:15px;
+	color: red;
+}
+.lastbox1 li:nth-child(3){
+	padding-top:15px;
+}
+.last-box1 li:last-child{
+	padding-top:8px;
+	width:95%;
+}
+
+.lastbox1 li:nth-child(4) a{
+	color:#555555;
+
+}
+.lastbox1 li:nth-child(4) {
+	padding-top:7px;
+
+}
+h4 img{
+	float:right;
+	margin-top:12px;
+	display:block;
+}
+.last-box{
+	display: none;
+}
+}
